@@ -29,3 +29,30 @@ This README would normally document whatever steps are necessary to get your app
 * Other community or team contact
 
 Add new line
+
+// **/.terraform/*
+Все директории с названием .terraform на любом уровне вложенности, от ткущего каталога
+
+// *.tfstate
+// *.tfstate.*
+все файли в текщем каталоге с расширением .tfstate или с расширением .tfstate.* (любый символы после точки)
+
+// crash.log
+файл с названием crash.log
+
+// *.tfvars
+все файлы с расширением .tfvars
+
+// override.tf
+// override.tf.json
+файлы override.tf и override.tf.json
+
+//*_override.tf
+//*_override.tf.json
+
+все файлы которые в название имеют _override и с расширением .tf или tf.json
+
+// .terraformrc
+// terraform.rc
+файлы .terraformrc и terraform.rc
+
