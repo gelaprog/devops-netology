@@ -29,7 +29,7 @@ This README would normally document whatever steps are necessary to get your app
 * Other community or team contact
 
 Add new line
-
+```
 // **/.terraform/*
 Все директории с названием .terraform на любом уровне вложенности, от ткущего каталога
 
@@ -55,4 +55,4 @@ Add new line
 // .terraformrc
 // terraform.rc
 файлы .terraformrc и terraform.rc
-
+```
