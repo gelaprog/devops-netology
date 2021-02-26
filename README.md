@@ -33,6 +33,7 @@ Add new line
 // **/.terraform/*
 Все директории с названием .terraform на любом уровне вложенности, от ткущего каталога
 
+```
 // *.tfstate
 // *.tfstate.*
 все файли в текщем каталоге с расширением .tfstate или с расширением .tfstate.* (любый символы после точки)
@@ -55,6 +56,7 @@ Add new line
 // .terraformrc
 // terraform.rc
 файлы .terraformrc и terraform.rc
+```
 
 New line lesson 2.2 task 3
 
