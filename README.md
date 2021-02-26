@@ -56,3 +56,5 @@ Add new line
 // terraform.rc
 файлы .terraformrc и terraform.rc
 
+New line lesson 2.2 task 3
+
