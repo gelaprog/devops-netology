@@ -58,5 +58,6 @@ Add new line
 файлы .terraformrc и terraform.rc
 ```
 
+## Changes on 2021-02-26
 New line lesson 2.2 task 3
 
